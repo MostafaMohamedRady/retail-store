@@ -12,6 +12,10 @@ To create code cover report [You can find this report in the target/site/jacoco 
 ```
 mvn test jacoco:report
 ```
+To Run the application
+```
+mvn  spring-boot:run
+```
 ## Tools
 ```
 - spring boot 
@@ -33,7 +37,7 @@ request
     "affiliate": true,
     "employee": false,
     "name": "mostafa",
-    "registrationDate": "2019-07-06T11:16:20.385Z"
+    "registrationDate": "2019-07-06"
   },
 "items": [
     {
